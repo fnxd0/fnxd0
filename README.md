@@ -9,7 +9,7 @@ Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver prob
 
 * 🌍 Moro na Bahia, Brasil.
 * ✉️ Você pode entrar em contato comigo em: [devfernando55@gmail.com](mailto:devfernando55@gmail.com).
-* 🧠 Estou aprendendo linguagens de programação Java Avançado, Banco de Dados e C/C#.
+* 🧠 Estou aprendendo linguagens de programação Python Avançado, Banco de Dados, Framework Django e Flask.
 * 🤝 Estou aberto a colaborar em projetos que tenham alto impacto na vida das pessoas.
 * 👀 Buscando oportunidades no mercado de trabalho.
 <br>
