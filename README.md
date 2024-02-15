@@ -3,7 +3,7 @@ Meu nome é Fernando 🫡
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento back-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver problemas usando tecnologia de ponta. Meu foco principal é o desenvolvimento full stack, fazendo aplicações que impactam na vida de usuários.
 
 <br>
 
