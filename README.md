@@ -23,7 +23,6 @@ Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver prob
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/devfernando10) 
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devfernando10)
 
-<br>
 
 **Back-End**  
 
@@ -32,7 +31,6 @@ Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver prob
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/devfernando10)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/devfernando10)
 
-<br>
 
 **Banco de Dados**
 
@@ -40,7 +38,6 @@ Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver prob
 [![DataBricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/devfernando10)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/devfernando10)
 
-<br>
 
 **Ferramentas** 
 
