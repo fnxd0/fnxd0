@@ -37,6 +37,7 @@ Sou desenvolvedor, tenho 18 anos. Adoro programar e descobrir como resolver prob
 [![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/devfernando10)
 [![DataBricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/devfernando10)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/devfernando10)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/devfernando10)
 
 
 **Ferramentas** 
