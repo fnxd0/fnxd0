@@ -61,8 +61,6 @@ Sou desenvolvedor, tenho 19 anos. Adoro programar e descobrir como resolver prob
 [![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://github.com/devfernando10)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/devfernando10)
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/devfernando10)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfernando10)
-[![GitHub Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/devfernando10)
 
 <br>
 <br>
