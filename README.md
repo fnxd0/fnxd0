@@ -50,7 +50,7 @@ Sou desenvolvedor, tenho 19 anos. Adoro programar e descobrir como resolver prob
 
 **Ferramentas** 
 
-[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/devfernando10)
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/devfernando10)
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/devfernando10)
 [![PowerBi Badge](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)](https://github.com/devfernando10)
 [![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://github.com/devfernando10)
