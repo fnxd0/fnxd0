@@ -43,7 +43,6 @@ Sou desenvolvedor, tenho 19 anos. Adoro programar e descobrir como resolver prob
 **Framework** 
 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/devfernando10)
-
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/devfernando10)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/devfernando10)
 
