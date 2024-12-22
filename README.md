@@ -1,4 +1,4 @@
-<h3>My name is Fernando Santana, and i am a backend developer.</h3>
+<h3>My name is Fernando Santana, and i am a software engineer.</h3>
 
 <h6>Constantly evolving in programming, extremely focused on improving myself as a professional, i post my projects on this profile, using the languages i have been studying recurrently.</h6>
 
